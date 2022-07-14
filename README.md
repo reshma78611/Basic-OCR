@@ -1,2 +1,3 @@
-# Basic-OCR
+# Basic OCR
+
 Text Recognition using OCR
